@@ -1,7 +1,10 @@
 package org.wiley.bsaranks;
 
+import android.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.TextView;
 
@@ -11,6 +14,19 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Toolbar bsaranksToolbar = (Toolbar) findViewById(R.id.bsaranks_toolbar);
+        setSupportActionBar(bsaranksToolbar);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        displayDefault(item.getActionView());
+        return super.onOptionsItemSelected(item);
+    }
+
+    public void displayDefault(View view) {
+        displayTitleDesc(R.string.app_name, R.string.default_desc);
     }
 
     public void displayScout(View view) {

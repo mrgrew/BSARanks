@@ -1,4 +1,5 @@
 <resources>
+
     <string name="app_name">BSA Ranks</string>
 
     <string name="scout">Scout</string>
@@ -15,10 +16,8 @@
 
     <string name="eaglescout">Eagle Scout</string>
 
-    <string name="default_title">BSA Rank</string>
-
     <string name="default_desc">This app will introduce you to the seven ranks of the Boy Scouts of
-        America. Click on a badge above to learn about that rank.
+        America. Click on a badge in the scrollable list above to learn about that rank.
     </string>
 
     <string name="scout_desc">Scout is the first rank. The badge is awarded when the boy
