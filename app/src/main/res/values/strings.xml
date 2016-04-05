@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">BSA Ranks</string>
+
+    <string name="scout">Scout</string>
+
+    <string name="tenderfoot">Tenderfoot</string>
+
+    <string name="secondclass">Second Class</string>
+
+    <string name="firstclass">First Class</string>
+
+    <string name="starscout">Star Scout</string>
+
+    <string name="lifescout">Life Scout</string>
+
+    <string name="eaglescout">Eagle Scout</string>
+
+    <string name="default_title">BSA Rank</string>
+
+    <string name="default_desc">This app will introduce you to the seven ranks of the Boy Scouts of
+        America. Click on a badge above to learn about that rank.
+    </string>
+
+    <string name="scout_desc">Scout is the first rank. The badge is awarded when the boy
+        demonstrates a rudimentary knowledge of the Scouting ideals such as tying a square knot and
+        knowing the Scout oath, law, motto, and slogan.
+    </string>
+
+    <string name="tenderfoot_desc">Tenderfoot is the second rank. A Scout can work on the
+        requirements for the Tenderfoot, Second Class, and First Class ranks at the same time, but
+        each rank must be earned in sequence. The badge is awarded when the Scout completes
+        requirements in the areas of Scoutcraft, physical fitness, citizenship, personal growth and
+        Scout Spirit.
+    </string>
+
+    <string name="secondclass_desc">Second Class is the rank above Tenderfoot and below First Class.
+        A Scout can work on the requirements for the Tenderfoot, Second Class, and First Class ranks
+        at the same time, but must be earned in sequence. The badge is awarded when the Scout
+        completes requirements in the areas of Scoutcraft, physical fitness, citizenship, personal
+        growth and Scout Spirit.
+    </string>
+
+    <string name="firstclass_desc">First Class is the rank above Second Class and below Star Scout.
+        A Scout can work on the requirements for the Tenderfoot, Second Class, and First Class ranks
+        at the same time, but must earn them in sequence. The badge is awarded when the Scout
+        completes requirements in the areas of Scoutcraft, physical fitness, citizenship, personal
+        growth and Scout Spirit. At this point, Scouts stop practicing the Scout skills, and start
+        working on leadership.
+        \n\n
+        The number of Scouts achieving First Class within one year of joining is still one of the
+        key measures of unit effectiveness. Studies purportedly have shown that if a Scout achieves
+        First Class within a year of joining, he typically stays in the Scout program for at least
+        three years. Scouts who do so are purportedly more likely to retain Scout values as an adult
+        and achieve the BSA primary mission of "producing useful citizens".
+    </string>
+
+    <string name="star_desc">Star is the rank above First Class and below Life Scout. It is the
+        third-highest rank. Star is awarded when the Scout serves actively in the troop in a
+        position of responsibility for at least 4 months; performs at least six hours of community
+        service; and earns six merit badges (four of which must be required for Eagle Scout rank).
+        \n\n
+        Initially, the Life badge was awarded for five merit badges and the Star badge was awarded
+        for ten. The order was reversed in the 1920s when it was decided that the five-pointed star
+        of Star Scout better represented the five merit badges required for first rank above First
+        Class. That symbolism disappeared when the number of merit badges required for Star was
+        increased to six in 1990.
+    </string>
+
+    <string name="life_desc">Life is second-highest rank attainable and ranks above Star Scout and
+        below Eagle. Life is awarded when the Scout serves actively in the troop, team or crew,
+        serves in a position of responsibility for six months, and performs six hours of community
+        service. Another thing a Scout must do in order to achieve Life is earn an additional five
+        merit badges (three of which are required for the rank of Eagle), to make a minimum total of
+        eleven merit badges (including the six previously required for Star). Finally, the Scout
+        must pass a Scoutmaster conference, and board of review.
+        \n\n
+        Life was originally lower than Star, and originally required earning five specific merit
+        badges concerned with health and fitness (First Aid, Lifesaving, Public Health, Personal
+        Health and Athletics). It was changed in the 1920s when it was decided that the five-pointed
+        star better represented the five merit badges required for Star, and the two were switched.
+        Life\'s heart came to symbolize achievement in health and fitness, as the First Aid merit
+        badge was required for both Life and Eagle for many years.
+    </string>
+
+    <string name="eagle_desc">Eagle Scout is the highest rank attainable in the Boy Scouting
+        division. Since its introduction in 1911, the Eagle Scout rank has been earned by more than
+        2 million young men.
+        \n\n
+        Requirements include earning a number of merit badges and demonstration of Scout Spirit,
+        service and leadership. This includes an extensive service project that the Scout plans,
+        organizes, leads, and manages. Eagle Scouts are presented with a medal and a badge that
+        visibly recognizes the accomplishments of the Scout. Additional recognition can be earned
+        through Eagle Palms, awarded for completing additional tenure, leadership and merit badge
+        requirements.
+    </string>
+
+</resources>
